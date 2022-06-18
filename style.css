@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(177, 175, 168);
+}
+
+img:hover{
+    border-color: white;
+    border-radius: 150px;
+    border-width: 5px;
+    border-style: solid;
+}
+img{
+
+inline-size: 100%;
+ border: 10px;
+ border-color: white;
+
+}
+#result1{
+    float: left;
+    height: 400;
+    width: 500;
+    margin-left:50px;
+}
+#result2{
+    float: right;
+    height: 400;
+    width: 500;
+    margin-right:50px;
+    
+}
+#result3{
+    float: center;
+    height:600;
+    width: 500;
+    margin-top:50px;
+    
+}
